@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export const API = axios.create({
-  baseURL: 'https://api.aulia.instructype.com/api/v1',
+   baseURL:  'http://api.aulia.instructype.com/api/v1',
   //baseURL: 'http://10.20.4.96:5000/api/v1',
   //baseURL: 'http://10.20.3.89:5000/api/v1',
   //baseURL: 'https://library-dw18lsfsq.herokuapp.com/api/v1',
