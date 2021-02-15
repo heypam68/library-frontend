@@ -7,4 +7,4 @@ module.exports = {
           ]
 };
 
-discord
+discord app 12
